@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Chocolateclub::Application.config.secret_token = 'acd34fde7a978c275b71f317d3ffcccb6b377c7d205b38414cd8e3fb282fdd7b5066e331967f6afa7fdde5e5213cdde4029754b078a647b2c5b18cd07a1a0388'
+Chocolateclub::Application.config.secret_token = '30e4c7e0754580a771bd7bf964356572aafe8ef7a8e4ed45a8259fc4a6c775600711a03ed868c9d47a17f5b5c9cb9c5a1c11c4f908177546fe599f6cab8efdef'
